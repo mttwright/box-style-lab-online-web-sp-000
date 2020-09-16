@@ -63,3 +63,7 @@ img {
   border: 2px solid;
   box-sizing: border-box;
 }
+
+h4.amiable {
+  background-image: linear-gradient(to bottom right, red, blue);
+}
